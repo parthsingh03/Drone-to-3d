@@ -2,7 +2,8 @@
 
 Turn drone photos into an interactive 3D model. A real photogrammetry pipeline — 61 drone photos in, an orbitable 3D building out.
 
-**[Live demo](https://parthsingh03.github.io/drone-to-3d/)** — open `index.html`, no build step, no server needed.
+**[Live demo](https://parthsingh03.github.io/Drone-to-3d/
+)** — , no build step, no server needed.
 
 ## What it does
 
